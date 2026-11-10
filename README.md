@@ -1,5 +1,7 @@
 # Claude Code Subagents
 
+> **Beta.** This setup is in beta. Settings, model choices and routing rules may change, and the quality and credit savings are estimates that have not been measured.
+
 A ready-to-use subagent setup for [Claude Code](https://code.claude.com). The lead model plans and accepts the work. Specialised agents do the research, building and review. It works with any lead model (Fable, Opus, Sonnet or Haiku) and is tuned to use less of your usage limit.
 
 ## What is included
